@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/linkedin-clone-redux/static/css/main.b9e9beef.css",
+    "main.js": "/linkedin-clone-redux/static/js/main.011e308b.js",
+    "index.html": "/linkedin-clone-redux/index.html",
+    "main.b9e9beef.css.map": "/linkedin-clone-redux/static/css/main.b9e9beef.css.map",
+    "main.011e308b.js.map": "/linkedin-clone-redux/static/js/main.011e308b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e9beef.css",
+    "static/js/main.011e308b.js"
+  ]
+}
